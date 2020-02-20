@@ -10,4 +10,8 @@
 
 @implementation TDvelo
 
+-(void) move { NSLog(@"ride ride ride");
+    
+}
+
 @end

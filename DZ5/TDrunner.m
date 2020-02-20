@@ -10,4 +10,8 @@
 
 @implementation TDrunner
 
+-(void) move {NSLog(@"run run run");
+    
+}
+
 @end

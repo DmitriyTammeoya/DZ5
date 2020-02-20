@@ -10,4 +10,12 @@
 
 @implementation Student
 
+-(void) move {
+    [super move];
+    NSLog(@"learn learn learn");
+    
+}
+
+
+
 @end

@@ -12,6 +12,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Student : Human
 
+@property (strong, nonatomic) NSString* favoriteteam;
+@property (assign, nonatomic) NSInteger iq;
+
 @end
 
 NS_ASSUME_NONNULL_END

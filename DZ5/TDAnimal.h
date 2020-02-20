@@ -12,6 +12,12 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TDAnimal : NSObject
 
+@property (strong, nonatomic) NSString* petname;
+@property (assign, nonatomic) NSInteger cuteness;
+
+-(void) move;
+
+
 @end
 
 NS_ASSUME_NONNULL_END

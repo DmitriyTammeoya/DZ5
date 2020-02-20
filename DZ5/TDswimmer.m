@@ -10,4 +10,8 @@
 
 @implementation TDswimmer
 
+-(void) move { NSLog(@"swim swim swim");
+    
+}
+
 @end

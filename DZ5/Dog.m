@@ -10,4 +10,8 @@
 
 @implementation Dog
 
+-(void) move {NSLog(@"run with 4 legs");
+    
+}
+
 @end

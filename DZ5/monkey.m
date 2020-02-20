@@ -9,5 +9,8 @@
 #import "monkey.h"
 
 @implementation monkey
+-(void) move  {NSLog(@"climb on a tree");
+    
+}
 
 @end

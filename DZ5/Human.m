@@ -10,4 +10,8 @@
 
 @implementation Human
 
+-(void) move { NSLog(@"go go go");
+    
+}
+
 @end

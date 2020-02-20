@@ -10,4 +10,8 @@
 
 @implementation TDAnimal
 
+-(void) move {NSLog(@"animal move");
+}
+
+
 @end
